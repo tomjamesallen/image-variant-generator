@@ -1,0 +1,19 @@
+{
+  "name": "image-variant-generator",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomjamesallen/image-variant-generator.git"
+  },
+  "author": "tom allen <tomjamesallenweb@gmail.com> (http://tomjamesallen.co.uk)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomjamesallen/image-variant-generator/issues"
+  },
+  "homepage": "https://github.com/tomjamesallen/image-variant-generator#readme"
+}
